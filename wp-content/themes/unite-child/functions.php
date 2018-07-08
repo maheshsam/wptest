@@ -23,3 +23,4 @@ include_once wp_normalize_path( UNITE_CHILD_DIR . '/inc/configs.php' );
 
 include_once wp_normalize_path( UNITE_CHILD_DIR . '/films.php' );
 Films::init();
+
